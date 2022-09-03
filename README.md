@@ -1,24 +1,24 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+＊お部屋片付けサイト＊
 
-Things you may want to cover:
 
-* Ruby version
+Function
+顧客側
 
-* System dependencies
+・　会員登録、ログイン・ログアウト
 
-* Configuration
+・　アカウント情報編集
 
-* Database creation
+・　ルーム片付け場所
 
-* Database initialization
+・　コミュニティページ
 
-* How to run the test suite
+・　ヘッダー検索機能
 
-* Services (job queues, cache servers, search engines, etc.)
+管理者側
 
-* Deployment instructions
+・　ログイン、ログアウト
 
-* ...
+・　コメント管理機能
+
